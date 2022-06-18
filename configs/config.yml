@@ -1,0 +1,12 @@
+host: "localhost"
+port: "8000"
+
+internal-password: vezdekod
+
+db:
+  host: "localhost"
+  port: "5434"
+  username: "postgres"
+  dbname: "postgres"
+  password: "vezdekod"
+  sslmode: "disable"
